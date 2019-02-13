@@ -1,0 +1,19 @@
+www.quora.com##.QuestionStoryBundle.ClickthroughBundle.Bundle > .full_bundle.main_feed
+www.quora.com##.QuestionsToFollowPreviewFeed.CarouselStoryBundle.Bundle > .full_bundle.main_feed
+www.quora.com## .QuestionStoryBundle.Bundle.ClickthroughBundle > .full_bundle.main_feed
+www.quora.com##.CarouselBundle.Carousel.Bundle.SuggestedTribesBundle > .full_bundle.main_feed
+www.quora.com##.Bundle.QuestionStoryBundle.ClickthroughBundle
+www.quora.com##.ClickthroughBundle.Bundle.QuestionStoryBundle > .full_bundle.main_feed
+www.quora.com##.image_ad.home_feed_ad.feed_ad_story.outer_content_box
+www.quora.com## .home_feed_ad.feed_ad_story.outer_content_box
+www.quora.com##.image_ad.home_feed_ad.feed_expand.outer_content_box
+www.quora.com##.Bundle.AskQuestionPromptBundle > .singleton_bundle.main_feed
+www.quora.com##.Bundle.CarouselBundle.Carousel.SuggestedUsersBundle > .full_bundle.main_feed
+www.quora.com##.prepend_item_content
+www.quora.com##.switcher_wrapper
+www.quora.com## .image_ad.topic_feed_ad.feed_ad_story.outer_content_box
+www.quora.com##.image_ad.topic_feed_ad.feed_expand.outer_content_box
+www.quora.com##.topic_feed_ad.feed_expand.outer_content_box
+www.quora.com##.topic_feed_ad.feed_expand.outer_content_box
+www.quora.com##.topic_feed_ad.feed_ad_story.outer_content_box
+
