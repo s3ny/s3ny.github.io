@@ -1,7 +1,0 @@
- ! https://indianexpress.com
-indianexpress.com###nextstory
-
-! https://www.thehindu.com
-www.thehindu.com##.sticky-article-heading
-www.thehindu.com##.hidden-lg.hidden-md.hidden-sm.just-in-conatiner
-www.thehindu.com##.comment-rules
