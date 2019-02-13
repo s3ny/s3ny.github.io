@@ -1,8 +1,0 @@
- ! https://thediplomat.com
-
-thediplomat.com##.ng-hide.td-ad-inline-txt.td-ad-inline
-thediplomat.com##.postSocial
-thediplomat.com##.td-ad-inline-txt.td-ad-inline
-thediplomat.com##.dpl-pw-msg
-thediplomat.com###dpl-modal-ad-1
-thediplomat.com###dpl-modal-limit
