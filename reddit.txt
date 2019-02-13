@@ -1,0 +1,5 @@
+ ! https://www.reddit.com
+www.reddit.com##.XPromoPill
+www.reddit.com##.pulse.TopButton
+www.reddit.com##.active.XPromoPopup
+www.reddit.com##.active.XPromoPopup
